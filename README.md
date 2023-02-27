@@ -1,7 +1,7 @@
 # campus-market
 ## An used goods transaction platform based on Springboot
 
-Main Tools: eclipse + JDK8
+Main Tools: Eclipse + JDK8
 
 Frameworks: Spring Boot
 
