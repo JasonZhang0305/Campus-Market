@@ -27,8 +27,8 @@ spring.datasource.password=
 **3. 在localhost的8081端口打开index页面，可以修改端口号 **  
 **4. 前端页面是freemarker文件，便于动态资源的传输 **  
 
-## 功能介绍 
-# 客户端：
+# 功能介绍 
+## 客户端：
 1用户注册登陆。
 2用户发布商品。
 3用户发布求购商品。
@@ -42,7 +42,7 @@ spring.datasource.password=
 3求购信息管理。
 4统计类功能。
 
-![Login](https://github.com/JasonZhang0305/githubimg/blob/main/img/collections.jpeg)  
+![function]()  
   
  
 
