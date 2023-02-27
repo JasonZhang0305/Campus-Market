@@ -1,5 +1,5 @@
-## campus-market
-# An used goods transaction platform based on Springboot
+# campus-market
+## An used goods transaction platform based on Springboot
 
 Main Tools: eclipse + JDK8
 
@@ -11,10 +11,10 @@ Others：HTML+CSS+JS
 **项目简介**：This project is a c2c second-hand market trading platform. It is mainly aimed at college students to facilitate the exchange of second-hand goods between students. Users can register their own information on this website, post products, and can also contact sellers and buy products through this platform. This project not only implements user pages but also implements a backend management page. Administrators can operate the website through the backend management page. Additionally, I set a theme for the display page of the website based on my own university.
 
 视频学习网址：https://www.bilibili.com/video/BV1Br4y117rm/?spm_id_from=333.337.search-card.all.click&vd_source=126a675e30d3918492f9fe1ca7b624d4
-# 项目目录：  
+## 项目目录：  
  ![Project Directory](https://github.com/JasonZhang0305/githubimg/blob/main/img/projectd.jpeg).   
   
-# 项目导入
+## 项目导入
 配置好所需要的开发环境，加载pom文件，修改配置文件，然后启动App.java即可。 
 
 **要点！！**  
@@ -36,7 +36,7 @@ spring.datasource.password=
 5用户基本信息管理。
 6用户发布商品管理。
 
-# 管理后台：
+## 后台管理系统：
 1前端用户管理。
 2商品及分类管理。
 3求购信息管理。
