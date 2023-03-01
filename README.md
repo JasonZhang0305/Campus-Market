@@ -13,7 +13,7 @@ Project Discription：This project is a c2c second-hand market trading platform.
 
 视频学习网址：https://www.bilibili.com/video/BV1Br4y117rm/?spm_id_from=333.337.search-card.all.click&vd_source=126a675e30d3918492f9fe1ca7b624d4
 ## 项目目录：  
- ![Project Directory](![目录](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/directory.png).).   
+ ![Project Directory](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/directory.png).  
   
 ## 项目导入
 配置好所需要的开发环境，加载pom文件，修改配置文件，然后启动App.java即可。 
