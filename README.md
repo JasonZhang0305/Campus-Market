@@ -24,12 +24,12 @@ Project Discription：This project is a c2c second-hand market trading platform.
 spring.datasource.username=
 spring.datasource.password=
 修改上传和备份的路径  
-**2. 提前开启本机的数据库，启动程序后会自动连接Mysql **
-**3. 在localhost的8081端口打开index页面，可以修改端口号 **  
-**4. 前端页面是freemarker文件，便于动态资源的传输 **  
+**2. 提前开启本机的数据库，启动程序后会自动连接Mysql**
+**3. 在localhost的8081端口打开index页面，可以修改端口号**  
+**4. 前端页面是freemarker文件，便于动态资源的传输**  
 
-# 功能介绍 
-## 客户端：
+## 功能介绍 
+### 客户端：
 1用户注册登陆。
 2用户发布商品。
 3用户发布求购商品。
@@ -37,13 +37,12 @@ spring.datasource.password=
 5用户基本信息管理。
 6用户发布商品管理。
 
-## 后台管理系统：
+### 后台管理系统：
 1前端用户管理。
 2商品及分类管理。
 3求购信息管理。
 4统计类功能。
 
-![function]()  
   
  
 
