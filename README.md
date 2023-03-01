@@ -35,7 +35,7 @@ spring.datasource.password=
 ![登陆页面](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/login.png). 
 
 **2 主页**
-![主页](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/home.png).  
+![主页](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/home.png)  
 
 **3 左边展示台**
 ![左边展示台](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/left.png). 
@@ -43,7 +43,7 @@ spring.datasource.password=
 **4 右边展示台**
 ![右边展示台](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/right.png). 
 
-**5 右边展示台**
+**5 页面底部**
 ![底部](https://github.com/JasonZhang0305/Githubimg/blob/main/imgc2c/bottom.png).  
 
 **6 用户页面**
