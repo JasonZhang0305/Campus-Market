@@ -1,5 +1,7 @@
 # campus-market
-## An used goods transaction platform based on Springboot
+## An used goods transaction platform based on Springboot 
+# The Url of this website deployed on the cloud server of AWS 
+## http://52.192.156.56:8081/home/index/login
 
 Main Tools: Eclipse + JDK8
 
